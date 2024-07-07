@@ -1,5 +1,5 @@
 <?php
 
-echo "name: mahrous";
+echo "age: 21 year";
 
 echo "\n";
